@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/pandas-Data%20Analysis-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/Status-Completed-28a745?style=flat-square" alt="Completed">
-  <img src="https://img.shields.io/badge/Tasks-3%20%2F%203-brightgreen?style=flat-square" alt="Tasks">
 </p>
 
 ---
