@@ -56,7 +56,6 @@ The simulation placed me in Quantium's **Retail Analytics team**, working on a r
 | **Certificate** | [View Certificate](certificates/) |
 | **Simulation Link** | [The Forage — Quantium Data Analytics](https://www.theforage.com/simulations/quantium/data-analytics-rqkb) |
 
-> ⚠️ Per Forage's referencing policy, this is listed as a **virtual experience / extracurricular activity** — not work or internship experience. [View Policy](https://cdn-assets.theforage.com/Forage+Referencing+Policy+V5.pdf)
 
 ---
 
